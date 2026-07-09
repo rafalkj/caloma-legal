@@ -1,6 +1,6 @@
 # Polityka Prywatności aplikacji Caloma
 
-**Data ostatniej aktualizacji:** 26 czerwca 2026 r.
+**Data ostatniej aktualizacji:** 9 lipca 2026 r.
 
 ---
 
@@ -25,9 +25,9 @@ Następujące dane przechowywane są wyłącznie na urządzeniu użytkownika:
 - wpisy w dzienniku wagi,
 - cele kaloryczne i makroskładnikowe,
 - opcjonalna nazwa użytkownika,
-- ustawienia aplikacji i status wersji Pro.
+- ustawienia aplikacji, status subskrypcji Pro i data jej wygaśnięcia.
 
-Dane przechowywane są do czasu odinstalowania aplikacji. Użytkownik może usuwać poszczególne wpisy (produkty, szablony posiłków) bezpośrednio w aplikacji. Jeśli na urządzeniu włączona jest funkcja kopii zapasowej systemu Android, dane aplikacji mogą być objęte automatycznym backupem Google — zarządzanie nim odbywa się w ustawieniach systemu Android.
+Dane przechowywane są do czasu odinstalowania aplikacji. Użytkownik może usuwać poszczególne wpisy (produkty, szablony posiłków) bezpośrednio w aplikacji. Aplikacja tworzy również automatyczną, lokalną kopię zapasową danych w prywatnym katalogu aplikacji na urządzeniu — plik ten nie jest nigdzie przesyłany ani udostępniany. Jeśli na urządzeniu włączona jest funkcja kopii zapasowej systemu Android, dane aplikacji mogą być objęte automatycznym backupem Google — zarządzanie nim odbywa się w ustawieniach systemu Android.
 
 **Podstawa prawna:** art. 6 ust. 1 lit. b RODO
 (świadczenie usługi).
@@ -64,14 +64,14 @@ Open Food Facts to organizacja non-profit z siedzibą we Francji.
 
 ### 4.3 Google Play Billing — zakupy w aplikacji
 
-Przy zakupie wersji Caloma Pro transakcja realizowana jest przez Google Play. Administrator otrzymuje wyłącznie:
-- identyfikator produktu,
-- token potwierdzający zakup.
+Wersja Caloma Pro udostępniana jest w modelu miesięcznej, automatycznie odnawiającej się subskrypcji, obsługiwanej w całości przez Google Play. Administrator otrzymuje wyłącznie:
+- identyfikator produktu subskrypcyjnego,
+- token potwierdzający zakup/odnowienie subskrypcji.
 
-Pełne dane płatności (karta, adres) przetwarzane są wyłącznie przez Google i nie są dostępne dla administratora.
+Pełne dane płatności (karta, adres) oraz zarządzanie subskrypcją (w tym jej anulowanie) przetwarzane są wyłącznie przez Google i nie są dostępne dla administratora. Subskrypcją można zarządzać oraz ją anulować bezpośrednio w aplikacji Google Play na urządzeniu.
 
-**Cel:** realizacja i weryfikacja jednorazowego zakupu Pro.  
-**Podstawa prawna:** art. 6 ust. 1 lit. b RODO (wykonanie umowy).  
+**Cel:** realizacja i weryfikacja subskrypcji Pro.
+**Podstawa prawna:** art. 6 ust. 1 lit. b RODO (wykonanie umowy).
 **Polityka prywatności Google:** https://policies.google.com/privacy
 
 ### 4.4 Expo — aktualizacje aplikacji
@@ -94,7 +94,7 @@ Aplikacja może używać aparatu wyłącznie do skanowania kodów kreskowych pro
 
 ## 6. Eksport danych
 
-Aplikacja umożliwia eksport danych żywieniowych do pliku JSON (Profil → Eksport danych). Plik zapisywany jest lokalnie na urządzeniu i udostępniany wyłącznie na żądanie użytkownika za pomocą systemowego mechanizmu udostępniania.
+Aplikacja umożliwia eksport danych żywieniowych (m.in. dziennika, produktów własnych, szablonów posiłków i pomiarów wagi) do pliku JSON (Profil → Eksport danych). Plik zapisywany jest lokalnie na urządzeniu i udostępniany wyłącznie na żądanie użytkownika za pomocą systemowego mechanizmu udostępniania. Aplikacja umożliwia również import danych z wcześniej wyeksportowanego pliku JSON (Profil → Import danych), w trybie połączenia z istniejącymi danymi lub ich zastąpienia. Import odbywa się wyłącznie lokalnie na urządzeniu — wybrany plik nie jest przesyłany do administratora ani do żadnych usług zewnętrznych.
 
 ---
 
