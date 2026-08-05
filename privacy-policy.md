@@ -30,14 +30,15 @@ Następujące dane przechowywane są wyłącznie na urządzeniu użytkownika:
 
 Dane przechowywane są do czasu odinstalowania aplikacji. Użytkownik może usuwać poszczególne wpisy (produkty, szablony posiłków) bezpośrednio w aplikacji. Aplikacja tworzy również automatyczną, lokalną kopię zapasową danych w prywatnym katalogu aplikacji na urządzeniu — plik ten nie jest nigdzie przesyłany ani udostępniany. Jeśli na urządzeniu włączona jest funkcja kopii zapasowej systemu Android, dane aplikacji mogą być objęte automatycznym backupem Google — zarządzanie nim odbywa się w ustawieniach systemu Android.
 
-**Podstawa prawna:** art. 6 ust. 1 lit. b RODO
-(świadczenie usługi).
+**Podstawa prawna:** art. 6 ust. 1 lit. b RODO (świadczenie usługi).
 
 ---
 
 ## 4. Automatyczne wyliczanie zapotrzebowania kalorycznego
 
 Na podstawie danych antropometrycznych podanych przez użytkownika (waga, wzrost, wiek, płeć, poziom aktywności) aplikacja może automatycznie wyliczyć orientacyjne dzienne zapotrzebowanie kaloryczne i makroskładnikowe. Wyliczenia opierają się na standardowych wzorach (np. Mifflin-St Jeor) i mają charakter wyłącznie szacunkowy — nie stanowią porady medycznej ani dietetycznej. Zasady odpowiedzialności za wykorzystanie tych wyliczeń określa Regulamin aplikacji.
+
+**Podstawa prawna:** art. 6 ust. 1 lit. b RODO (świadczenie usługi).
 
 ---
 
