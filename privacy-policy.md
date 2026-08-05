@@ -24,6 +24,7 @@ Następujące dane przechowywane są wyłącznie na urządzeniu użytkownika:
 - spożyte posiłki, produkty, ilości i makroskładniki,
 - wpisy w dzienniku wagi,
 - cele kaloryczne i makroskładnikowe,
+- dane antropometryczne wykorzystywane do automatycznego wyliczenia zapotrzebowania kalorycznego: wzrost, wiek, płeć, poziom aktywności fizycznej, waga docelowa, wybrany cel (redukcja/utrzymanie/masa),
 - opcjonalna nazwa użytkownika,
 - ustawienia aplikacji, status subskrypcji Pro i data jej wygaśnięcia.
 
@@ -34,9 +35,15 @@ Dane przechowywane są do czasu odinstalowania aplikacji. Użytkownik może usuw
 
 ---
 
-## 4. Dane przekazywane do usług zewnętrznych
+## 4. Automatyczne wyliczanie zapotrzebowania kalorycznego
 
-### 4.1 Sentry — raportowanie błędów
+Na podstawie danych antropometrycznych podanych przez użytkownika (waga, wzrost, wiek, płeć, poziom aktywności) aplikacja może automatycznie wyliczyć orientacyjne dzienne zapotrzebowanie kaloryczne i makroskładnikowe. Wyliczenia opierają się na standardowych wzorach (np. Mifflin-St Jeor) i mają charakter wyłącznie szacunkowy — nie stanowią porady medycznej ani dietetycznej. Zasady odpowiedzialności za wykorzystanie tych wyliczeń określa Regulamin aplikacji.
+
+---
+
+## 5. Dane przekazywane do usług zewnętrznych
+
+### 5.1 Sentry — raportowanie błędów
 
 Aplikacja korzysta z Sentry.io w celu wykrywania awarii. W przypadku błędu automatycznie przekazywane są:
 - informacje o błędzie i ślad stosu wywołań (stack trace),
@@ -50,7 +57,7 @@ Dane nie zawierają informacji żywieniowych użytkownika. Dane przetwarzane są
 **Podstawa prawna:** art. 6 ust. 1 lit. f RODO (uzasadniony interes administratora).  
 **Polityka prywatności Sentry:** https://sentry.io/privacy/
 
-### 4.2 Open Food Facts — baza produktów
+### 5.2 Open Food Facts — baza produktów
 
 Podczas wyszukiwania produktów aplikacja wysyła zapytanie do publicznej bazy Open Food Facts:
 - kod kreskowy produktu (przy skanowaniu),
@@ -62,7 +69,7 @@ Open Food Facts to organizacja non-profit z siedzibą we Francji.
 **Podstawa prawna:** art. 6 ust. 1 lit. b RODO (świadczenie usługi).  
 **Polityka prywatności Open Food Facts:** https://world.openfoodfacts.org/privacy
 
-### 4.3 Google Play Billing — zakupy w aplikacji
+### 5.3 Google Play Billing — zakupy w aplikacji
 
 Wersja Caloma Pro udostępniana jest w modelu miesięcznej, automatycznie odnawiającej się subskrypcji, obsługiwanej w całości przez Google Play. Administrator otrzymuje wyłącznie:
 - identyfikator produktu subskrypcyjnego,
@@ -74,7 +81,7 @@ Pełne dane płatności (karta, adres) oraz zarządzanie subskrypcją (w tym jej
 **Podstawa prawna:** art. 6 ust. 1 lit. b RODO (wykonanie umowy).
 **Polityka prywatności Google:** https://policies.google.com/privacy
 
-### 4.4 Expo — aktualizacje aplikacji
+### 5.4 Expo — aktualizacje aplikacji
 
 Aplikacja korzysta z Expo Updates w celu dostarczania aktualizacji. Przekazywane są wyłącznie metadane techniczne:
 - identyfikator projektu,
@@ -86,31 +93,31 @@ Aplikacja korzysta z Expo Updates w celu dostarczania aktualizacji. Przekazywane
 
 ---
 
-## 5. Aparat i skaner kodów kreskowych
+## 6. Aparat i skaner kodów kreskowych
 
 Aplikacja może używać aparatu wyłącznie do skanowania kodów kreskowych produktów żywnościowych. Obraz z kamery przetwarzany jest lokalnie na urządzeniu — nie jest zapisywany ani przesyłany na zewnątrz. Dostęp do aparatu wymaga zgody użytkownika i może być cofnięty w ustawieniach systemu.
 
 ---
 
-## 6. Eksport danych
+## 7. Eksport danych
 
 Aplikacja umożliwia eksport danych żywieniowych (m.in. dziennika, produktów własnych, szablonów posiłków i pomiarów wagi) do pliku JSON (Profil → Eksport danych). Plik zapisywany jest lokalnie na urządzeniu i udostępniany wyłącznie na żądanie użytkownika za pomocą systemowego mechanizmu udostępniania. Aplikacja umożliwia również import danych z wcześniej wyeksportowanego pliku JSON (Profil → Import danych), w trybie połączenia z istniejącymi danymi lub ich zastąpienia. Import odbywa się wyłącznie lokalnie na urządzeniu — wybrany plik nie jest przesyłany do administratora ani do żadnych usług zewnętrznych.
 
 ---
 
-## 7. Zautomatyzowane podejmowanie decyzji i profilowanie
+## 8. Zautomatyzowane podejmowanie decyzji i profilowanie
 
 Administrator nie stosuje zautomatyzowanego podejmowania decyzji ani profilowania w rozumieniu art. 22 RODO.
 
 ---
 
-## 8. Minimalny wiek użytkownika
+## 9. Minimalny wiek użytkownika
 
 Aplikacja przeznaczona jest dla osób, które ukończyły 13 lat. Administrator nie zbiera świadomie danych od dzieci poniżej 13. roku życia. Jeśli posiadasz wiedzę o tym, że dziecko poniżej 13 lat korzysta z aplikacji, prosimy o kontakt pod adresem podanym w sekcji 1.
 
 ---
 
-## 9. Prawa użytkownika (RODO)
+## 10. Prawa użytkownika (RODO)
 
 Przysługują Ci następujące prawa:
 
@@ -126,12 +133,12 @@ Aby skorzystać z powyższych praw, skontaktuj się: **calomamacrotracker@gmail.
 
 ---
 
-## 10. Zmiany polityki prywatności
+## 11. Zmiany polityki prywatności
 
 Administrator zastrzega sobie prawo do zmiany niniejszej polityki. Data ostatniej aktualizacji widnieje na górze dokumentu. O istotnych zmianach użytkownicy będą informowani poprzez aktualizację aplikacji.
 
 ---
 
-## 11. Kontakt
+## 12. Kontakt
 
 **Email:** calomamacrotracker@gmail.com
