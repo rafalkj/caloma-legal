@@ -1,6 +1,6 @@
 # Polityka Prywatności aplikacji Caloma
 
-**Data ostatniej aktualizacji:** 9 lipca 2026 r.
+**Data ostatniej aktualizacji:** 05.08.2026 r.
 
 ---
 
