@@ -1,6 +1,6 @@
 # Polityka Prywatności aplikacji Caloma
 
-**Data ostatniej aktualizacji:** 05.08.2026 r.
+**Data ostatniej aktualizacji:** 10.08.2026 r.
 
 ---
 
@@ -72,7 +72,7 @@ Open Food Facts to organizacja non-profit z siedzibą we Francji.
 
 ### 5.3 Google Play Billing — zakupy w aplikacji
 
-Wersja Caloma Pro udostępniana jest w modelu miesięcznej, automatycznie odnawiającej się subskrypcji, obsługiwanej w całości przez Google Play. Administrator otrzymuje wyłącznie:
+Wersja Caloma Pro udostępniana jest w modelu automatycznie odnawiającej się subskrypcji, w wariancie miesięcznym lub rocznym, obsługiwanej w całości przez Google Play. Administrator otrzymuje wyłącznie:
 - identyfikator produktu subskrypcyjnego,
 - token potwierdzający zakup/odnowienie subskrypcji.
 
@@ -114,7 +114,7 @@ Administrator nie stosuje zautomatyzowanego podejmowania decyzji ani profilowani
 
 ## 9. Minimalny wiek użytkownika
 
-Aplikacja przeznaczona jest dla osób, które ukończyły 13 lat. Administrator nie zbiera świadomie danych od dzieci poniżej 13. roku życia. Jeśli posiadasz wiedzę o tym, że dziecko poniżej 13 lat korzysta z aplikacji, prosimy o kontakt pod adresem podanym w sekcji 1.
+Aplikacja przeznaczona jest dla osób, które ukończyły 18 lat, w szczególności ze względu na dostępną w Aplikacji płatną subskrypcję. Z uwagi na to, że Aplikacja działa w pełni offline i nie wymaga rejestracji, Administrator nie posiada możliwości identyfikacji użytkowników ani zdalnego dostępu do ich danych. Jeżeli rodzic lub opiekun prawny stwierdzi, że z Aplikacji korzysta osoba niepełnoletnia, może samodzielnie odinstalować Aplikację.
 
 ---
 
@@ -122,15 +122,12 @@ Aplikacja przeznaczona jest dla osób, które ukończyły 13 lat. Administrator 
 
 Przysługują Ci następujące prawa:
 
-- **Prawo dostępu** — możesz zażądać informacji  o przetwarzanych danych,
-- **Prawo do sprostowania** — możesz poprawić  nieprawidłowe dane,
-- **Prawo do usunięcia** — możesz zażądać usunięcia  danych dotyczących Ciebie,
-- **Prawo do ograniczenia przetwarzania** — możesz  zażądać wstrzymania przetwarzania danych w określonych  przypadkach (np. gdy kwestionujesz ich prawidłowość),
-- **Prawo do przeniesienia danych** — dane lokalne możesz  wyeksportować bezpośrednio w aplikacji,
-- **Prawo do sprzeciwu** — wobec przetwarzania na podstawie  uzasadnionego interesu (dotyczy Sentry i Expo Updates),
-- **Prawo do skargi** — możesz złożyć skargę do Prezesa  Urzędu Ochrony Danych Osobowych (UODO),  ul. Stawki 2, 00-193 Warszawa, www.uodo.gov.pl.
+- **Prawo dostępu, sprostowania i usunięcia danych** — z uwagi na to, że Aplikacja działa w pełni offline i nie przekazuje danych lokalnych do Administratora, Administrator nie ma do nich dostępu ani możliwości ich zdalnej modyfikacji lub usunięcia. Powyższe prawa realizujesz samodzielnie bezpośrednio w Aplikacji — poprzez edycję lub usunięcie poszczególnych wpisów, eksport danych (Profil → Eksportuj dane) lub odinstalowanie Aplikacji.
+- **Prawo do przeniesienia danych** — dane lokalne możesz wyeksportować bezpośrednio w aplikacji (Profil → Eksportuj dane).
+- **Prawo do sprzeciwu** — wobec przetwarzania danych na podstawie uzasadnionego interesu administratora (dotyczy Sentry i Expo Updates). Z uwagi na brak identyfikacji użytkowników w Aplikacji, Administrator nie ma możliwości wyłączenia tego przetwarzania dla pojedynczego użytkownika na jego żądanie — jedynym sposobem rezygnacji z tego przetwarzania jest zaprzestanie korzystania z Aplikacji.
+- **Prawo do skargi** — możesz złożyć skargę do Prezesa Urzędu Ochrony Danych Osobowych (UODO), ul. Stawki 2, 00-193 Warszawa, www.uodo.gov.pl.
 
-Aby skorzystać z powyższych praw, skontaktuj się: **calomamacrotracker@gmail.com**
+W sprawach, w których Administrator ma faktyczną możliwość podjęcia działania (np. pytania dotyczące przetwarzania danych przez Sentry lub Expo), skontaktuj się: calomamacrotracker@gmail.com
 
 ---
 
