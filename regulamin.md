@@ -1,6 +1,6 @@
 # Regulamin aplikacji Caloma
 
-**Data ostatniej aktualizacji:** 10.08.2026 r.
+**Data ostatniej aktualizacji:** 11.08.2026 r.
 
 ---
 
@@ -113,6 +113,8 @@
 8.3. Import i eksport odbywają się wyłącznie lokalnie na urządzeniu — plik nie jest przesyłany do Usługodawcy ani do żadnych usług zewnętrznych.
 
 8.4. Usługodawca nie ponosi odpowiedzialności za skutki użycia funkcji importu w trybie „Zastąp", w tym za utratę danych, która nastąpiła w jego wyniku.
+
+8.5. Niezależnie od funkcji opisanej w ust. 8.1, Aplikacja automatycznie wykonuje lokalną kopię zapasową danych Użytkownika co 24 godziny, zapisywaną wyłącznie w prywatnym katalogu Aplikacji na urządzeniu. Kopia ta nie jest nigdzie przesyłana ani udostępniana i służy wyłącznie zabezpieczeniu danych Użytkownika przed ich utratą.
 
 ---
 
