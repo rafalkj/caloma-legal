@@ -114,7 +114,7 @@
 
 8.4. Usługodawca nie ponosi odpowiedzialności za skutki użycia funkcji importu w trybie „Zastąp", w tym za utratę danych, która nastąpiła w jego wyniku.
 
-8.5. Niezależnie od funkcji opisanej w ust. 8.1, Aplikacja automatycznie wykonuje lokalną kopię zapasową danych Użytkownika co 24 godziny, zapisywaną wyłącznie w prywatnym katalogu Aplikacji na urządzeniu. Kopia ta nie jest nigdzie przesyłana ani udostępniana i służy wyłącznie zabezpieczeniu danych Użytkownika przed ich utratą.
+8.5. Niezależnie od funkcji opisanej w ust. 8.1, Aplikacja automatycznie wykonuje lokalną kopię zapasową danych Użytkownika co 24 godziny — funkcja dostępna wyłącznie w ramach Caloma Pro (zgodnie z § 3.3). Kopia ta zapisywana jest wyłącznie w prywatnym katalogu Aplikacji na urządzeniu, nie jest nigdzie przesyłana ani udostępniana i służy wyłącznie zabezpieczeniu danych Użytkownika przed ich utratą.
 
 ---
 
