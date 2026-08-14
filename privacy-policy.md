@@ -1,12 +1,14 @@
 # Polityka Prywatności aplikacji Caloma
 
-**Data ostatniej aktualizacji:** 10.08.2026 r.
+**Data ostatniej aktualizacji:** 14.08.2026 r.
 
 ---
 
 ## 1. Administrator danych
 
 Administratorem danych osobowych jest Rafał Kidaj — indywidualny twórca aplikacji mobilnych.
+
+**Adres korespondencyjny:** ul. Tumidajskiego 16/88; 20-247 Lublin
 
 **Kontakt:** calomamacrotracker@gmail.com
 
