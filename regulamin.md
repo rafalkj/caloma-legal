@@ -1,6 +1,6 @@
 # Regulamin aplikacji Caloma
 
-**Data ostatniej aktualizacji:** 11.08.2026 r.
+**Data ostatniej aktualizacji:** 14.08.2026 r.
 
 ---
 
@@ -8,7 +8,7 @@
 
 1.1. Niniejszy Regulamin określa zasady korzystania z aplikacji mobilnej Caloma (dalej: „Aplikacja"), dostępnej dla systemu Android za pośrednictwem Google Play, w tym zasady świadczenia usługi subskrypcyjnej Caloma Pro.
 
-1.2. Usługodawcą i administratorem danych osobowych jest Rafał Kidaj — indywidualny twórca aplikacji mobilnych (dalej: „Usługodawca").
+1.2. Usługodawcą i administratorem danych osobowych jest Rafał Kidaj — indywidualny twórca aplikacji mobilnych (dalej: „Usługodawca"), prowadzący działalność w formie nierejestrowanej w rozumieniu art. 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców. Adres korespondencyjny Usługodawcy: ul. Tumidajskiego 16/88; 20-247 Lublin. Kontakt z Usługodawcą możliwy jest za pośrednictwem adresu e-mail: calomamacrotracker@gmail.com.
 
 **Kontakt:** calomamacrotracker@gmail.com
 
